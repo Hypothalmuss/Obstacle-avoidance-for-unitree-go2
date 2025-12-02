@@ -1,0 +1,2 @@
+Invoking command in '/home/nadim/project-GO2/src/build/champ_config': /usr/bin/cmake /home/nadim/project-GO2/src/unitree-go2-ros2/champ/champ_config -DCMAKE_INSTALL_PREFIX=/home/nadim/project-GO2/src/install/champ_config
+Invoked command in '/home/nadim/project-GO2/src/build/champ_config' returned '1': /usr/bin/cmake /home/nadim/project-GO2/src/unitree-go2-ros2/champ/champ_config -DCMAKE_INSTALL_PREFIX=/home/nadim/project-GO2/src/install/champ_config

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>go2_config</name>
+  <version>0.1.0</version>
+  <description>Go2 Config Package</description>
+
+  <maintainer email="anujjain.dev@gmail.com">Anuj Jain</maintainer>
+  <author>Anuj Jain</author>
+<depend>gazebo_ros</depend>
+<depend>joint_state_publisher</depend>
+<depend>teleop_twist_keyboard</depend>
+<depend>sensor_msgs</depend>
+<depend>geometry_msgs</depend>
+<depend>nav_msgs</depend>
+  <license>BSD</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>launch_ros</build_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

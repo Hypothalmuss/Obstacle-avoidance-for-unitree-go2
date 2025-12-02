@@ -1,0 +1,33 @@
+[0.074s] Invoking command in '/home/nadim/project-GO2/src/build/champ_config': /usr/bin/cmake /home/nadim/project-GO2/src/unitree-go2-ros2/champ/champ_config -DCMAKE_INSTALL_PREFIX=/home/nadim/project-GO2/src/install/champ_config
+[0.464s] -- The C compiler identification is GNU 11.4.0
+[0.652s] -- The CXX compiler identification is GNU 11.4.0
+[0.678s] -- Detecting C compiler ABI info
+[0.828s] -- Detecting C compiler ABI info - done
+[0.833s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.833s] -- Detecting C compile features
+[0.837s] -- Detecting C compile features - done
+[0.842s] -- Detecting CXX compiler ABI info
+[0.991s] -- Detecting CXX compiler ABI info - done
+[1.000s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.000s] -- Detecting CXX compile features
+[1.000s] -- Detecting CXX compile features - done
+[1.015s] -- Configuring incomplete, errors occurred!
+[1.015s] See also "/home/nadim/project-GO2/src/build/champ_config/CMakeFiles/CMakeOutput.log".
+[1.015s] [31mCMake Error at CMakeLists.txt:4 (find_package):
+[1.015s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[1.015s]   has asked CMake to find a package configuration file provided by
+[1.015s]   "ament_cmake", but CMake did not find one.
+[1.015s] 
+[1.015s]   Could not find a package configuration file provided by "ament_cmake" with
+[1.016s]   any of the following names:
+[1.016s] 
+[1.016s]     ament_cmakeConfig.cmake
+[1.016s]     ament_cmake-config.cmake
+[1.016s] 
+[1.016s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[1.016s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[1.017s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[1.017s]   has been installed.
+[1.017s] 
+[1.018s] [0m
+[1.027s] Invoked command in '/home/nadim/project-GO2/src/build/champ_config' returned '1': /usr/bin/cmake /home/nadim/project-GO2/src/unitree-go2-ros2/champ/champ_config -DCMAKE_INSTALL_PREFIX=/home/nadim/project-GO2/src/install/champ_config

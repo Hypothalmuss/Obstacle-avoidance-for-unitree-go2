@@ -1,0 +1,1 @@
+Invoking command in '/home/eagletn7/Downloads/project-GO2/build/champ_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation:/opt/ros/humble /usr/bin/cmake --build /home/eagletn7/Downloads/project-GO2/build/champ_navigation -- -j12 -l12

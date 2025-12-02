@@ -1,0 +1,2 @@
+[0.028s] Invoking command in '/home/eagletn7/Downloads/project-GO2/build/go2_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation:/opt/ros/humble /usr/bin/cmake --build /home/eagletn7/Downloads/project-GO2/build/go2_config -- -j12 -l12
+[0.104s] [100%] Built target animated_box_plugin

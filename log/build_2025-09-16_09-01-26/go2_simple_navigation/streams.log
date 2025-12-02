@@ -1,0 +1,52 @@
+[0.570s] Invoking command in '/home/eagletn7/Downloads/project-GO2/src/go2_simple_navigation': PYTHONPATH=/home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/go2_simple_navigation build --build-base /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build install --record /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/install.log --single-version-externally-managed install_data
+[0.768s] running egg_info
+[0.768s] creating ../../build/go2_simple_navigation/go2_simple_navigation.egg-info
+[0.769s] writing ../../build/go2_simple_navigation/go2_simple_navigation.egg-info/PKG-INFO
+[0.769s] writing dependency_links to ../../build/go2_simple_navigation/go2_simple_navigation.egg-info/dependency_links.txt
+[0.769s] writing entry points to ../../build/go2_simple_navigation/go2_simple_navigation.egg-info/entry_points.txt
+[0.769s] writing requirements to ../../build/go2_simple_navigation/go2_simple_navigation.egg-info/requires.txt
+[0.769s] writing top-level names to ../../build/go2_simple_navigation/go2_simple_navigation.egg-info/top_level.txt
+[0.769s] writing manifest file '../../build/go2_simple_navigation/go2_simple_navigation.egg-info/SOURCES.txt'
+[0.770s] reading manifest file '../../build/go2_simple_navigation/go2_simple_navigation.egg-info/SOURCES.txt'
+[0.771s] writing manifest file '../../build/go2_simple_navigation/go2_simple_navigation.egg-info/SOURCES.txt'
+[0.771s] running build
+[0.771s] running build_py
+[0.771s] creating /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build
+[0.771s] creating /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build/lib
+[0.771s] creating /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build/lib/go2_simple_navigation
+[0.771s] copying go2_simple_navigation/dwb.test.py -> /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build/lib/go2_simple_navigation
+[0.771s] copying go2_simple_navigation/goal+avoid.py -> /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build/lib/go2_simple_navigation
+[0.771s] copying go2_simple_navigation/obst_stop.py -> /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build/lib/go2_simple_navigation
+[0.772s] copying go2_simple_navigation/strafe-avoid.py -> /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build/lib/go2_simple_navigation
+[0.772s] copying go2_simple_navigation/__init__.py -> /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build/lib/go2_simple_navigation
+[0.772s] running install
+[0.772s] running install_lib
+[0.772s] creating /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages/go2_simple_navigation
+[0.772s] copying /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build/lib/go2_simple_navigation/dwb.test.py -> /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages/go2_simple_navigation
+[0.773s] copying /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build/lib/go2_simple_navigation/goal+avoid.py -> /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages/go2_simple_navigation
+[0.773s] copying /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build/lib/go2_simple_navigation/obst_stop.py -> /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages/go2_simple_navigation
+[0.773s] copying /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build/lib/go2_simple_navigation/strafe-avoid.py -> /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages/go2_simple_navigation
+[0.773s] copying /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build/lib/go2_simple_navigation/__init__.py -> /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages/go2_simple_navigation
+[0.773s] byte-compiling /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages/go2_simple_navigation/dwb.test.py to dwb.test.cpython-310.pyc
+[0.776s] byte-compiling /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages/go2_simple_navigation/goal+avoid.py to goal+avoid.cpython-310.pyc
+[0.777s] byte-compiling /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages/go2_simple_navigation/obst_stop.py to obst_stop.cpython-310.pyc
+[0.777s] byte-compiling /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages/go2_simple_navigation/strafe-avoid.py to strafe-avoid.cpython-310.pyc
+[0.779s] byte-compiling /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages/go2_simple_navigation/__init__.py to __init__.cpython-310.pyc
+[0.779s] running install_data
+[0.779s] creating /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/share/ament_index
+[0.779s] creating /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/share/ament_index/resource_index
+[0.779s] creating /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/share/ament_index/resource_index/packages
+[0.780s] copying resource/go2_simple_navigation -> /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/share/ament_index/resource_index/packages
+[0.780s] copying package.xml -> /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/share/go2_simple_navigation
+[0.780s] creating /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/share/go2_simple_navigation/launch
+[0.780s] copying launch/test.launch.py -> /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/share/go2_simple_navigation/launch
+[0.780s] copying launch/simple_navigation.launch.py -> /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/share/go2_simple_navigation/launch
+[0.780s] running install_egg_info
+[0.781s] Copying ../../build/go2_simple_navigation/go2_simple_navigation.egg-info to /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages/go2_simple_navigation-0.0.0-py3.10.egg-info
+[0.782s] running install_scripts
+[0.797s] Installing avoid_dwb script to /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/go2_simple_navigation
+[0.797s] Installing go2_simple_navigation_node script to /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/go2_simple_navigation
+[0.797s] Installing simple_avoidance script to /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/go2_simple_navigation
+[0.797s] Installing walk script to /home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/go2_simple_navigation
+[0.797s] writing list of installed files to '/home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/install.log'
+[0.816s] Invoked command in '/home/eagletn7/Downloads/project-GO2/src/go2_simple_navigation' returned '0': PYTHONPATH=/home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/go2_simple_navigation build --build-base /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/build install --record /home/eagletn7/Downloads/project-GO2/build/go2_simple_navigation/install.log --single-version-externally-managed install_data

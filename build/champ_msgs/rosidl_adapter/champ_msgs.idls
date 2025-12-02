@@ -1,0 +1,9 @@
+/home/eagletn7/Downloads/project-GO2/build/champ_msgs/rosidl_adapter/champ_msgs:msg/Velocities.idl
+/home/eagletn7/Downloads/project-GO2/build/champ_msgs/rosidl_adapter/champ_msgs:msg/PID.idl
+/home/eagletn7/Downloads/project-GO2/build/champ_msgs/rosidl_adapter/champ_msgs:msg/Imu.idl
+/home/eagletn7/Downloads/project-GO2/build/champ_msgs/rosidl_adapter/champ_msgs:msg/Point.idl
+/home/eagletn7/Downloads/project-GO2/build/champ_msgs/rosidl_adapter/champ_msgs:msg/PointArray.idl
+/home/eagletn7/Downloads/project-GO2/build/champ_msgs/rosidl_adapter/champ_msgs:msg/Joints.idl
+/home/eagletn7/Downloads/project-GO2/build/champ_msgs/rosidl_adapter/champ_msgs:msg/Contacts.idl
+/home/eagletn7/Downloads/project-GO2/build/champ_msgs/rosidl_adapter/champ_msgs:msg/ContactsStamped.idl
+/home/eagletn7/Downloads/project-GO2/build/champ_msgs/rosidl_adapter/champ_msgs:msg/Pose.idl

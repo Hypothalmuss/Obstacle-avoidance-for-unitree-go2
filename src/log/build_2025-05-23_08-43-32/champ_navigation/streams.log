@@ -1,0 +1,32 @@
+[0.080s] Invoking command in '/home/nadim/project-GO2/src/build/champ_navigation': /usr/bin/cmake /home/nadim/project-GO2/src/unitree-go2-ros2/champ/champ_navigation -DCMAKE_INSTALL_PREFIX=/home/nadim/project-GO2/src/install/champ_navigation
+[0.459s] -- The C compiler identification is GNU 11.4.0
+[0.688s] -- The CXX compiler identification is GNU 11.4.0
+[0.707s] -- Detecting C compiler ABI info
+[0.834s] -- Detecting C compiler ABI info - done
+[0.855s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.855s] -- Detecting C compile features
+[0.855s] -- Detecting C compile features - done
+[0.865s] -- Detecting CXX compiler ABI info
+[1.022s] -- Detecting CXX compiler ABI info - done
+[1.047s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.047s] -- Detecting CXX compile features
+[1.047s] -- Detecting CXX compile features - done
+[1.058s] [31mCMake Error at CMakeLists.txt:4 (find_package):
+[1.058s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[1.058s]   has asked CMake to find a package configuration file provided by
+[1.058s]   "ament_cmake", but CMake did not find one.
+[1.058s] 
+[1.058s]   Could not find a package configuration file provided by "ament_cmake" with
+[1.058s]   any of the following names:
+[1.058s] 
+[1.058s]     ament_cmakeConfig.cmake
+[1.058s]     ament_cmake-config.cmake
+[1.059s] 
+[1.059s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[1.059s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[1.059s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[1.059s]   has been installed.
+[1.059s] 
+[1.059s] [0m
+[1.061s] -- Configuring incomplete, errors occurred!
+[1.061s] See also "/home/nadim/project-GO2/src/build/champ_navigation/CMakeFiles/CMakeOutput.log".

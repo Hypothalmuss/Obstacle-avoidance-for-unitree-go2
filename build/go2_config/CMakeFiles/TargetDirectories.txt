@@ -1,0 +1,10 @@
+/home/eagletn7/Downloads/project-GO2/build/go2_config/CMakeFiles/uninstall.dir
+/home/eagletn7/Downloads/project-GO2/build/go2_config/CMakeFiles/go2_config_uninstall.dir
+/home/eagletn7/Downloads/project-GO2/build/go2_config/CMakeFiles/animated_box_plugin.dir
+/home/eagletn7/Downloads/project-GO2/build/go2_config/CMakeFiles/test.dir
+/home/eagletn7/Downloads/project-GO2/build/go2_config/CMakeFiles/edit_cache.dir
+/home/eagletn7/Downloads/project-GO2/build/go2_config/CMakeFiles/rebuild_cache.dir
+/home/eagletn7/Downloads/project-GO2/build/go2_config/CMakeFiles/list_install_components.dir
+/home/eagletn7/Downloads/project-GO2/build/go2_config/CMakeFiles/install.dir
+/home/eagletn7/Downloads/project-GO2/build/go2_config/CMakeFiles/install/local.dir
+/home/eagletn7/Downloads/project-GO2/build/go2_config/CMakeFiles/install/strip.dir

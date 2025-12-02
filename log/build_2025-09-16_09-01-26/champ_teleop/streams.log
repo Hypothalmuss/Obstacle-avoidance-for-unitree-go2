@@ -1,0 +1,42 @@
+[0.024s] Invoking command in '/home/eagletn7/Downloads/project-GO2/build/champ_teleop': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation:/opt/ros/humble /usr/bin/cmake /home/eagletn7/Downloads/project-GO2/src/unitree-go2-ros2/champ_teleop -DCMAKE_INSTALL_PREFIX=/home/eagletn7/Downloads/project-GO2/install/champ_teleop
+[0.082s] -- The C compiler identification is GNU 11.4.0
+[0.142s] -- The CXX compiler identification is GNU 11.4.0
+[0.149s] -- Detecting C compiler ABI info
+[0.225s] -- Detecting C compiler ABI info - done
+[0.231s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.231s] -- Detecting C compile features
+[0.232s] -- Detecting C compile features - done
+[0.235s] -- Detecting CXX compiler ABI info
+[0.323s] -- Detecting CXX compiler ABI info - done
+[0.333s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.333s] -- Detecting CXX compile features
+[0.333s] -- Detecting CXX compile features - done
+[0.336s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.480s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.633s] -- Configuring done
+[0.637s] -- Generating done
+[0.639s] -- Build files have been written to: /home/eagletn7/Downloads/project-GO2/build/champ_teleop
+[0.646s] Invoked command in '/home/eagletn7/Downloads/project-GO2/build/champ_teleop' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation:/opt/ros/humble /usr/bin/cmake /home/eagletn7/Downloads/project-GO2/src/unitree-go2-ros2/champ_teleop -DCMAKE_INSTALL_PREFIX=/home/eagletn7/Downloads/project-GO2/install/champ_teleop
+[0.647s] Invoking command in '/home/eagletn7/Downloads/project-GO2/build/champ_teleop': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation:/opt/ros/humble /usr/bin/cmake --build /home/eagletn7/Downloads/project-GO2/build/champ_teleop -- -j12 -l12
+[0.691s] Invoked command in '/home/eagletn7/Downloads/project-GO2/build/champ_teleop' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation:/opt/ros/humble /usr/bin/cmake --build /home/eagletn7/Downloads/project-GO2/build/champ_teleop -- -j12 -l12
+[0.692s] Invoking command in '/home/eagletn7/Downloads/project-GO2/build/champ_teleop': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation:/opt/ros/humble /usr/bin/cmake --install /home/eagletn7/Downloads/project-GO2/build/champ_teleop
+[0.701s] -- Install configuration: ""
+[0.701s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/launch
+[0.701s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/launch/teleop.launch.py
+[0.701s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/lib/champ_teleop/champ_teleop.py
+[0.701s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/ament_index/resource_index/package_run_dependencies/champ_teleop
+[0.702s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/ament_index/resource_index/parent_prefix_path/champ_teleop
+[0.702s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/environment/ament_prefix_path.sh
+[0.702s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/environment/ament_prefix_path.dsv
+[0.702s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/environment/path.sh
+[0.702s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/environment/path.dsv
+[0.702s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/local_setup.bash
+[0.703s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/local_setup.sh
+[0.703s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/local_setup.zsh
+[0.703s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/local_setup.dsv
+[0.703s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/package.dsv
+[0.703s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/ament_index/resource_index/packages/champ_teleop
+[0.703s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig.cmake
+[0.703s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig-version.cmake
+[0.703s] -- Installing: /home/eagletn7/Downloads/project-GO2/install/champ_teleop/share/champ_teleop/package.xml
+[0.724s] Invoked command in '/home/eagletn7/Downloads/project-GO2/build/champ_teleop' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eagletn7/Downloads/project-GO2/install/go2_simple_navigation:/opt/ros/humble /usr/bin/cmake --install /home/eagletn7/Downloads/project-GO2/build/champ_teleop
