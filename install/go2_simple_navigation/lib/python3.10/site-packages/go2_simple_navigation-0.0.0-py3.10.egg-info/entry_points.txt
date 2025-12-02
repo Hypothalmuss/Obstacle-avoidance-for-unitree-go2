@@ -1,7 +1,0 @@
-[console_scripts]
-avoid_dwb = go2_simple_navigation.avoid_dwb:main
-go2_simple_navigation_node = go2_simple_navigation.go2_simple_navigation_node:main
-goal_avoid = go2_simple_navigation.goal_avoid:main
-simple_avoidance = go2_simple_navigation.simple_avoidance:main
-walk = go2_simple_navigation.walk:main
-
